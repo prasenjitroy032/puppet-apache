@@ -1,1 +1,6 @@
 ---
+apache::install_ensure: present
+apache::install_name: 'apache2'
+apache::service_name: 'apache2'
+apache::service_ensure: 'running'
+apache::service_enable: true
