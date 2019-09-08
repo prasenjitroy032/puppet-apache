@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # apache
 
 Welcome to your new module. A short overview of the generated parts can be found in the PDK documentation at https://puppet.com/pdk/latest/pdk_generating_modules.html .
@@ -85,3 +86,6 @@ In the Development section, tell other users the ground rules for contributing t
 ## Release Notes/Contributors/Etc. **Optional**
 
 If you aren't using changelog, put your release notes here (though you should consider using changelog). You can also add any additional sections you feel are necessary or important to include here. Please use the `## ` header.
+=======
+# puppet-apache
+>>>>>>> 75c0228f6de81845a22d37a830c6e3eee61fc1a6
